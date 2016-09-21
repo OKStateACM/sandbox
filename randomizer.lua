@@ -4,6 +4,7 @@
 * ACM group list (your name|your github account):
 	* Alex Durville|o080o
 	* Ben Myers|bendmyers
+	* Andrew Bevelhymer
 --]]
 
 --first, we read in the file
