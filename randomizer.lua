@@ -1,3 +1,11 @@
+--[[
+* created by Alex Durville
+
+* ACM group list (your name|your github account):
+	* Alex Durville|o080o
+	* Ben Myers|bendmyers
+--]]
+
 --first, we read in the file
 local filename = 'names.txt'
 local file = io.open(filename)
@@ -20,6 +28,6 @@ end
 
 
 --and finally, print out the final lists.
-for index, name in ipairs(outputList) do
+for index, name in ipairs(outputList) do --iterates over every item in the table 'outputList'
 	print(name)
 end
