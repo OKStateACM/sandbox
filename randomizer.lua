@@ -5,6 +5,7 @@
 	* Alex Durville|o080o
 	* Ben Myers|bendmyers
 	* Ethan Mayberry|emayberry74
+	* Andrew Bevelhymer
 --]]
 
 --first, we read in the file
