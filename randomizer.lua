@@ -2,6 +2,7 @@
 * created by Alex Durville
 
 * ACM group list (your name|your github account):
+	* Wes Letcher
 	* Alex Durville|o080o
 	* Ben Myers|bendmyers
 	* Ethan Mayberry|emayberry74
